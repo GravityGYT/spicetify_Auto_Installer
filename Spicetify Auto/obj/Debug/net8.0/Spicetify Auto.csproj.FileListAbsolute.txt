@@ -1,0 +1,17 @@
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\bin\Debug\net8.0\Spicetify Auto.exe
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\bin\Debug\net8.0\Spicetify Auto.deps.json
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\bin\Debug\net8.0\Spicetify Auto.runtimeconfig.json
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\bin\Debug\net8.0\Spicetify Auto.dll
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\bin\Debug\net8.0\Spicetify Auto.pdb
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\obj\Debug\net8.0\Spicetify Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\obj\Debug\net8.0\Spicetify Auto.AssemblyInfoInputs.cache
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\obj\Debug\net8.0\Spicetify Auto.AssemblyInfo.cs
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\obj\Debug\net8.0\Spicetify Auto.csproj.CoreCompileInputs.cache
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\obj\Debug\net8.0\Spicetify Auto.dll
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\obj\Debug\net8.0\refint\Spicetify Auto.dll
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\obj\Debug\net8.0\Spicetify Auto.pdb
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\obj\Debug\net8.0\Spicetify Auto.genruntimeconfig.cache
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\obj\Debug\net8.0\ref\Spicetify Auto.dll
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\obj\Debug\net8.0\Spicetify Auto.csproj.AssemblyReference.cache
+C:\Users\fuzio\source\repos\Spicetify Auto\Spicetify Auto\obj\Debug\net8.0\Spicetif.86F027E3.Up2Date
